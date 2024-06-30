@@ -15,4 +15,4 @@
 > test_NCTrans.py, see details in https://github.com/instadeepai/nucleotide-transformer.
 
 [6] <b> Extract feature embeddings from DNA large language model, i.e., Evo-Design   
-> test_Evo.py, see details in https://github.com/evo-design/.
+> test_Evo.py, see details in https://github.com/evo-design/evo.
