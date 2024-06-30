@@ -10,3 +10,9 @@
 
 [4] <b> Extract feature embeddings from DNA large language model, i.e., DNABERT2   
 > test_DNABERT2.py, see details in https://github.com/MAGICS-LAB/DNABERT_2.
+
+[5] <b> Extract feature embeddings from DNA large language model, i.e., Nucleotie-Transformer   
+> test_NCTrans.py, see details in https://github.com/instadeepai/nucleotide-transformer.
+
+[6] <b> Extract feature embeddings from DNA large language model, i.e., Evo-Design   
+> test_Evo.py, see details in https://github.com/evo-design/.
